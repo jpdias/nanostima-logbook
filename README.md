@@ -14,12 +14,16 @@
             - [Blockchain-Consensus-Models](https://www.persistent.com/wp-content/uploads/2017/04/WP-Understanding-Blockchain-Consensus-Models.pdf)
             - [blockchain-consensus](http://dailycoin.info/short-guide-blockchain-consensus-protocols/)
 
+        - AAL Intro: caalyx, ecaalyx and caalyx-mV
+
     - Hands-on: 
         - Etherum: 
             - [use-geth-to-setup-your-own-private-ethereum](https://medium.com/blockchain-education-network/use-geth-to-setup-your-own-private-ethereum-blockchain-86f1200e6d40)
             - [private-chain](https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain.html)
         - [Sawtooth lake](https://intelledger.github.io/introduction.html)
         - [Naivechain](https://github.com/lhartikk/naivechain)
+        - [deploying-a-private-Ethereum-blockchain](http://hypernephelist.com/2016/05/30/deploying-a-private-Ethereum-blockchain.html)
+
 
  2. [13-31]/5/17
     - Implementation of a PoC of a blockchain for Access Authorization
