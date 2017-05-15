@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Nanostima Project
+ 
+### Logbook
 
-You can use the [editor on GitHub](https://github.com/jpdias/nanostima-logbook/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. 1-13/05/17
+- SOTA:
+    - Why Distributed Public Ledgers such as Blockchain will not solve the identification and thus the authentication problem
+        - https://www.kuppingercole.com/blog/kuppinger/why-dpl-will-not-solve-the-identification-and-thus-the-authentication-problem
+    - The Voyage of Discovery: Blockchain for Pharmaceuticals and Medical Devices 
+        - http://beyondstandards.ieee.org/general-news/voyage-discovery-blockchain-pharmaceuticals-medical-devices/
+    
+    - Proof-of-work
+        - https://www.quora.com/What-is-your-opinion-on-PoET-intel-blockchain 
+        - https://www.persistent.com/wp-content/uploads/2017/04/WP-Understanding-Blockchain-Consensus-Models.pdf
+        - http://dailycoin.info/short-guide-blockchain-consensus-protocols/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Hands-on: 
+    - Etherum: 
+        - https://medium.com/blockchain-education-network/use-geth-to-setup-your-own-private-ethereum-blockchain-86f1200e6d40
+        - https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain.html
+    - Sawtooth lake: https://intelledger.github.io/introduction.html
+    - Naivechain: https://github.com/lhartikk/naivechain
 
-### Markdown
+ 2. 13-31
+ - Implementation of a PoC of a blockchain for Access Authorization
+    - Based on Access Control List and Naivechain
+    - Reverse hash calculation as Proof-of-work
+    
+    ![Example of Ops in Blockchain](./resources/Ops.PNG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Sidenotes
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jpdias/nanostima-logbook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. How to "snapshot" generic/random operations? 
+  - Bitcoin has always a value / transaction stable specification
+  - R: ACL
+2. Need of local storage?
+3. Temporal access vs rule-override
+4. Group and individual ACL (e.g. nurses vs doctor x)
+  - Fine-Grained Access Control with Object-Sensitive Roles
+5. Permissions: Read / Write / R&&W
+6. Snapshots?
+  - At every 10 iterations do a snapshot, adding metadata
+  - {ops: [ -- ], meta: {timestamp, entityname, snapshot(T/F)} }
