@@ -6,6 +6,8 @@
     - SOTA:
         - Why Distributed Public Ledgers such as Blockchain will not solve the identification and thus the authentication problem [LINK](https://www.kuppingercole.com/blog/kuppinger/why-dpl-will-not-solve-the-identification-and-thus-the-authentication-problem)
         - The Voyage of Discovery: Blockchain for Pharmaceuticals and Medical Devices  [LINK](http://beyondstandards.ieee.org/general-news/voyage-discovery-blockchain-pharmaceuticals-medical-devices/)
+
+        - Mastering Blockchain - Imran Bashir
         
         - Proof-of-work
             - [PoET-intel](https://www.quora.com/What-is-your-opinion-on-PoET-intel-blockchain)
@@ -24,8 +26,7 @@
         - Based on Access Control List and Naivechain
         - Reverse hash calculation as Proof-of-work
         
-        ![Example of Ops in Blockchain](./resources/Ops.PNG)
-
+![Example of Ops in Blockchain](./resources/Ops.PNG)
 
 ### Sidenotes
 
@@ -39,4 +40,6 @@
 5. Permissions: Read / Write / R&&W
 6. Snapshots?
   - At every 10 iterations do a snapshot, adding metadata
-  - {ops: [ -- ], meta: {timestamp, entityname, snapshot(T/F)} }
+    - {ops: [ -- ], meta: {timestamp, entityname, snapshot(T/F)} }
+  - Two-level blockchain
+    - snapshots + blocks
