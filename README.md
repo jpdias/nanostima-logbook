@@ -21,7 +21,7 @@
             - [use-geth-to-setup-your-own-private-ethereum](https://medium.com/blockchain-education-network/use-geth-to-setup-your-own-private-ethereum-blockchain-86f1200e6d40)
             - [private-chain](https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain.html)
         - [Sawtooth lake](https://intelledger.github.io/introduction.html)
-        - [Naivechain](https://github.com/lhartikk/naivechain)
+        - [Naivechain](https://github.com/lhartikk/naivechain) . [Blog](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54)
         - [deploying-a-private-Ethereum-blockchain](http://hypernephelist.com/2016/05/30/deploying-a-private-Ethereum-blockchain.html)
 
 
@@ -29,6 +29,8 @@
     - Implementation of a PoC of a blockchain for Access Authorization
         - Based on Access Control List and Naivechain
         - Reverse hash calculation as Proof-of-work
+    - SOTA:
+        - The Byzantine Generals Problem
         
 ![Example of Ops in Blockchain](./resources/Ops.PNG)
 
