@@ -28,7 +28,9 @@
  2. [13-31]/5/17
     - Implementation of a PoC of a blockchain for Access Authorization
         - Based on Access Control List and Naivechain
-        - Reverse hash calculation as Proof-of-work
+        - Reverse hash calculation as Proof-of-work (partial hash collision)
+        - REST API Model
+        - Storing / SQLite3
     - SOTA:
         - The Byzantine Generals Problem
         
