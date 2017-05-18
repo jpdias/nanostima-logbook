@@ -2,7 +2,7 @@
  
 ### Logbook
 
-1. [1-13]/05/17
+#### 1. [1-13]/05/17
     - SOTA:
         - Why Distributed Public Ledgers such as Blockchain will not solve the identification and thus the authentication problem [LINK](https://www.kuppingercole.com/blog/kuppinger/why-dpl-will-not-solve-the-identification-and-thus-the-authentication-problem)
         - The Voyage of Discovery: Blockchain for Pharmaceuticals and Medical Devices  [LINK](http://beyondstandards.ieee.org/general-news/voyage-discovery-blockchain-pharmaceuticals-medical-devices/)
@@ -25,7 +25,7 @@
         - [deploying-a-private-Ethereum-blockchain](http://hypernephelist.com/2016/05/30/deploying-a-private-Ethereum-blockchain.html)
 
 
- 2. [13-31]/5/17
+ #### 2. [13-31]/5/17
     - Implementation of a PoC of a blockchain for Access Authorization
         - Based on Access Control List and Naivechain
         - Reverse hash calculation as Proof-of-work (partial hash collision)
