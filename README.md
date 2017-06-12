@@ -31,8 +31,19 @@
         - Reverse hash calculation as Proof-of-work (partial hash collision)
         - REST API Model
         - Storing / SQLite3
+        - Preliminary Scalabilty & Fault-tolerance testing
     - SOTA:
         - The Byzantine Generals Problem
+        - Access Control in eHealth Scenarious
+
+#### 3. [1-17]/6/17
+    - Literature Review & Related Work on Blockchain, Access Control and eHealth Data Security
+    - WIP on Scalabilty & Fault-tolerance testing
+    - Write and submit paper for ACSAC'17 conference (CORE A)
+    - Further research directions:
+        - Further testing and validation
+        - Use cases and Scenarious
+        - Orchestration of scalability testing with metrics
         
 ![Example of Ops in Blockchain](./resources/Ops.PNG)
 
@@ -51,3 +62,5 @@
     - {ops: [ -- ], meta: {timestamp, entityname, snapshot(T/F)} }
   - Two-level blockchain
     - snapshots + blocks
+
+7. Sidechain for snapshots
