@@ -64,3 +64,9 @@
     - snapshots + blocks
 
 7. Sidechain for snapshots
+
+
+### Institutions
+
+![INESC TEC](/resources/inesc.bmp)
+![FEUP](/resources/feup.bmp)
