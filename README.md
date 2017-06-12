@@ -68,5 +68,5 @@
 
 ### Institutions
 
-![INESC TEC](/resources/inesc.bmp)
-![FEUP](/resources/feup.bmp)
+![INESC TEC](/resources/inesc.png)
+![FEUP](/resources/feup.png)
