@@ -44,12 +44,16 @@
     - Further testing and validation
     - Use cases and Scenarious
     - Orchestration of scalability testing with metrics
+- ESXi *fasr* server configuration (start)
+
 
 #### 4. [19-30]/6/17
 - Scalabilty testing
     - Tools and evaluation of resutls
     - Complementing ACSAC paper metrics with new results
     - Docker-compose problem/solutions
+- ESXi *fasr* server configuration (continuation)
+    - PCI Nvidia Integration
 - *Side Tasks*:
     - PAAMS 17 attendance and presentation (21-23)
     - Scala Swarm attendance (21-23)
