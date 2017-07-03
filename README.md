@@ -50,33 +50,26 @@
 #### 4. [19-30]/6/17
 - Scalabilty testing
     - Tools and evaluation of resutls
-    - Complementing ACSAC paper metrics with new results
+    - ~~Complementing ACSAC paper metrics with new results~~
     - Docker-compose problem/solutions
 - ESXi *fasr* server configuration (continuation)
     - PCI Nvidia Integration
+    - 2 * Ubuntu configuration
 - *Side Tasks*:
     - PAAMS 17 attendance and presentation (21-23)
     - Scala Swarm attendance (21-23)
-        
-![Example of Ops in Blockchain](./resources/Ops.PNG)
+    - Master proposals (MESW)
 
-### Sidenotes
-
-1. How to "snapshot" generic/random operations? 
-  - Bitcoin has always a value / transaction stable specification
-  - R: ACL
-2. Need of local storage?
-3. Temporal access vs rule-override
-4. Group and individual ACL (e.g. nurses vs doctor x)
-  - Fine-Grained Access Control with Object-Sensitive Roles
-5. Permissions: Read / Write / R&&W
-6. Snapshots?
-  - At every 10 iterations do a snapshot, adding metadata
-    - {ops: [ -- ], meta: {timestamp, entityname, snapshot(T/F)} }
-  - Two-level blockchain
-    - snapshots + blocks
-
-7. Sidechain for snapshots
+#### 5. [1-15]/6/17
+- Summer internships
+    - ESP8266/ESP32 mesh network
+    - MQTT
+- IoT living lab start
+- IoT literature update
+    - Edge/Fog/Cloud Computing
+    - Low-power device wakeup
+- Paper Patterns IoT
+    - New draft
 
 
 ### Institutions
