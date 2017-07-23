@@ -70,6 +70,11 @@
     - Low-power device wakeup
 - Paper Patterns IoT
     - New draft
+    
+#### 6. [17-28]/6/17
+- New submission nanochain - ICDCN '18
+- Material list and budget for IoT liv. lab
+- Ethereum *hands-on*
 
 
 ### Institutions
