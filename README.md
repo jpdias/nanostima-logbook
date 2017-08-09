@@ -60,7 +60,7 @@
     - Scala Swarm attendance (21-23)
     - Master proposals (MESW)
 
-#### 5. [1-15]/6/17
+#### 5. [1-15]/07/17
 - Summer internships
     - ESP8266/ESP32 mesh network
     - MQTT
@@ -71,10 +71,18 @@
 - Paper Patterns IoT
     - New draft
     
-#### 6. [17-28]/6/17
+#### 6. [17-28]/07/17
 - New submission nanochain - ICDCN '18
 - Material list and budget for IoT liv. lab
 - Ethereum *hands-on*
+
+#### 7. [1-31]/08/17
+- Work on Survey paper on IoT landscape
+- Sum-up of summer internships
+    - Docker / ElasticSearch - Kibana - Logstash
+    - Cytoscape.js
+    - ESP8266 Mesh with painlessMesh
+- PLoP final submission (2nd draft)
 
 
 ### Institutions
