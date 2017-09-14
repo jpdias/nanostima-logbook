@@ -39,7 +39,7 @@
 #### 3. [1-17]/6/17
 - Literature Review & Related Work on Blockchain, Access Control and eHealth Data Security
 - WIP on Scalabilty & Fault-tolerance testing
-- Write and submit paper for ACSAC'17 conference (CORE A)
+- Write and submit paper for ACSAC'17 conference (CORE A) _update_: not accepted
 - *Further research directions*:
     - Further testing and validation
     - Use cases and Scenarious
@@ -72,17 +72,42 @@
     - New draft
     
 #### 6. [17-28]/07/17
-- New submission nanochain - ICDCN '18
+- New submission nanochain - ICDCN '18 _update_: not accepted
 - Material list and budget for IoT liv. lab
 - Ethereum *hands-on*
 
 #### 7. [1-31]/08/17
 - Work on Survey paper on IoT landscape
-- Sum-up of summer internships
+- Wrap-up of summer internships
     - Docker / ElasticSearch - Kibana - Logstash
     - Cytoscape.js
     - ESP8266 Mesh with painlessMesh
-- PLoP final submission (2nd draft)
+    - IJUP Submission
+- PLoP final submission (2nd draft) _update_: paper accepted
+
+_sidenotes_
+- Pixels.camp talk proposal & acceptance
+- Participation on Sunset Hackathon
+
+#### 8. [1-15]/09/17
+- Created IoT Living Lab team on GitHub
+- MIEIC Thesis proposal conceptualization and submission
+    - Meetings with interested students
+
+_sidenotes_
+- Pixels.camp talk development
+
+
+#### 8. [15-30]/09/17
+- Contextualization of the new work-group member in the work being done
+- Blockchain application for Telemedicine
+    - Conceptualization and start article writting
+- TBD
+
+_sidenotes_
+- Classes start ProDEI
+- Participation and speaker at pixels.camp
+
 
 
 ### Institutions
