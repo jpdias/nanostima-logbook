@@ -99,7 +99,7 @@ _sidenotes_
 
 
 #### 8. [15-30]/09/17
-- Contextualization of the new work-group member in the work being done
+- Briefing of the new work-group member in the work being done
 - Blockchain application for Telemedicine
     - Conceptualization and start article writting
 - TBD
