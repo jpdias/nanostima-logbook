@@ -108,7 +108,34 @@ _sidenotes_
 - Classes start ProDEI
 - Participation and speaker at pixels.camp
 
+#### 9. [1-14]/10/17
+- Talk @ SESI - MIEIC / MESW - How to Kill Your Privacy and IoT Your Home: SESI/SESE
+- Blockchain for Access Control in e-Health
+    - Paper writting work
 
+_sidenotes_
+- IEEEXtreme 11.0
+
+#### 10. [15-30]/10/17
+- PLoP 17 participation (Vancouver)
+- Blockchain for Access Control in e-Health
+    - Paper writting work
+
+#### 11. [1-11]/11/17
+- PLoP 17 participation (Vancouver)
+- Blockchain for Access Control in e-Health
+    - Paper submission
+
+_sidenotes_
+- Websummit 2017
+- Bsides Lisbon 2017
+
+
+#### 12. [13-30]/11/17
+- IoT/VPL state of the art / survey
+
+_sidenotes_
+- DSIE'18 organization
 
 ### Institutions
 
